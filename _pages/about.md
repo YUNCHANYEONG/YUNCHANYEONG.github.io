@@ -2,6 +2,9 @@
 title: "About"
 layout: single
 permalink: /about/
+author_profile: true
+sidebar_main: true
+toc : true
 ---
 
 안녕하세요. 이 곳은 제 꿈을 향한 발자국을들 모아놓은 공간입니다. 저희 함께 걸을까요?
