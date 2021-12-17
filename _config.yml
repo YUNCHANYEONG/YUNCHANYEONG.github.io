@@ -20,7 +20,7 @@ title                    : "CHANYEONG's Blog"
 title_separator          : "-"
 subtitle                 : "What makes you happy?"
 name                     : "CHANYEONG's"
-description              : "제 꿈을 향한 발자국들입니다."
+description              : "제 꿈을 향한 발자국들을 담은 공간입니다."
 url                      : "https://YUNCHANYEONG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : YUNCHANYEONG/YUNCHANYEONG.github.io
