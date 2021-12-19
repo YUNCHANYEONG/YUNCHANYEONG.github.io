@@ -20,6 +20,7 @@ md 파일 내에
 
 
 해결방안
+
 ![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/Liquid%20Exception3.PNG?raw=true
 )
 
