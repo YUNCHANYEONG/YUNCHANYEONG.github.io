@@ -1,6 +1,6 @@
 ---
 layout: single
-title : java day5 test
+title : java day6 test
 categories : coding
 tag : java
 toc : true
