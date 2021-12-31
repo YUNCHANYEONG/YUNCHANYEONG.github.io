@@ -19,6 +19,8 @@ md 파일 내에
 )
 
 
+
+
 해결방안
 
 ![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/d145a3289c3efed33e3a2211674ada5882d3e8cb/assets/images/coding_img/Liquid%20Exception3.PNG
