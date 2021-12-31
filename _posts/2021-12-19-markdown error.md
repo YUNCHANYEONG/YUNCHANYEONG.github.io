@@ -3,7 +3,7 @@ layout: single
 title : "Markdown - Liquid Exception : Liquid syntax error"
 categories : coding_tip
 tag : markdown
-toc : true
+toc : false
 ---
 
 상황. 
