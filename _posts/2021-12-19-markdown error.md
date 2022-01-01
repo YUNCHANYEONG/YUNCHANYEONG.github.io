@@ -10,12 +10,12 @@ toc : false
 
 md 파일 내에
 
-![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/d145a3289c3efed33e3a2211674ada5882d3e8cb/assets/images/coding_img/Liquid%20Exception1.PNG
+![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/Liquid%20Exception1.PNG?raw=true
 )
 <br>
 와 같이 {{ 와 }} 를 사용하게되면 아래와 같은 에러메시지가 출력되며 업로드가 되지않는다.
 <br>
-![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/d145a3289c3efed33e3a2211674ada5882d3e8cb/assets/images/coding_img/Liquid%20Exception2.PNG
+![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/Liquid%20Exception2.PNG?raw=true
 )
 <br>
 <br>
@@ -23,7 +23,7 @@ md 파일 내에
 
 해결방안
 
-![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/d145a3289c3efed33e3a2211674ada5882d3e8cb/assets/images/coding_img/Liquid%20Exception3.PNG
+![이미지](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/Liquid%20Exception3.PNG?raw=true
 )
 <br>
 위와 같이 괄호 양 끝에 태그를 붙여주면 해결된다.
