@@ -15,20 +15,23 @@ JavaScript란 \| 출력 \| 주석 \| 외부자바스크립트
 ### 자바스크립트(JavaScript)
 
 자바 스크립트는 모질라 재단의 프로토타입 기반의 프로그래밍 언어로, 스크립트 언어에 해당된다. HTML은 웹 문서의 내용을 구성하고, CSS는 웹 문서의 레이아웃이나 색상, 스타일 등을 지정한다. 자바스크립트를 추가하면 웹 무서의 각 요소를 가져와 필요에 따라 스타일을 변경하거나 움직이게 할 수 있다. 웹 문서를 자동차에 비유하자면, HTML은 자동차의 뼈대, CSS는 자동차의 외관, JavaScript는 자동차의 동력이라고 볼 수 있다. 객체 기반의 스크립트 프로그래밍 언어로 웹 브라우저 내에서 주로 사용되며, 다른 응용 프로그램의 내장 객체에도 접근할 수 있는 기능을 가지고 있다. 
-
+<br>
 웹 문서에는 자바스크립트 소스를 읽고 처리하는 해석기가 있다. 자바스크립트 소스는 웹 문서에서 \<script> 태그를 이용해 자바 스크립트 소스가 짧은 경우 웹 문서에서 자바 스크리브를 실행할 위치에 바로 작성할 수 있다. 
 
-
+<br>
+<br>
 
 #### 자바스크립트 출력
 
-**HTML 문서에 출력**<br>document.write() 함수를 통해 출력
+**HTML 문서에 출력**<br>\- document.write() 함수를 통해 출력
 
-**console에 출력**<br>console.log() 함수를 통해 출력
+**console에 출력**<br>\- console.log() 함수를 통해 출력
+
+<br>
 
 #### 자바스크립트 주석
 
-**한줄 주석** : //<br>**여러줄 주석** : /* ... */
+\- **한줄 주석** : //<br>\- **여러줄 주석** : /* ... */
 
 ```html
 <!DOCTYPE html>
@@ -56,7 +59,7 @@ JavaScript란 \| 출력 \| 주석 \| 외부자바스크립트
 
 ![js1_1](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/js1_1.JPG?raw=true)<br>콘솔에 출력한 결과값을 확인하는 방법은 F12키를 누르고 console 칸에서 확인이 가능하다.<br>![js1_2](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/js1_2.JPG?raw=true)
 
-
+<br>
 
 #### 외부 스크립트
 
@@ -84,7 +87,7 @@ console.log('외부에 연결된 스크립트입니다. 모두 화이팅 해봐�
 
 ![js1_3](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/js1_3.JPG?raw=true)
 
-
+<br>
 
 #### 대화상자
 
@@ -96,7 +99,7 @@ alert('안녕하세요?');
 
 ![js1_4](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/js1_4.JPG?raw=true)
 
-
+<br>
 
 **confirm()**<br>알림창은 단순히 메시지를 보여주는 기능만 하지만 확인차은 사용자가 **확인**이나 **취소** 버튼 중에서 직접 클릭할 수 있다. 확인을 누를 경우 **true**, 취소를 누를 경우 **false**를 반환한다.
 
@@ -106,7 +109,7 @@ confirm('확인 또는 취소를 눌러주세요.');
 
 ![js1_5](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/js1_5.JPG?raw=true)
 
-
+<br>
 
 **prompt()**<br>프롬프트 창은 텍스프 필드를 포함하고 있는 창이다. 텍스트 필드 안에 간단한 메시지를 입력후 결과를 반환한다.
 
