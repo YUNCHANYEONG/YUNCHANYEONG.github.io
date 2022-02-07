@@ -22,7 +22,7 @@ DOM | 노드
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title간단 문서</title>
+        <title>간단 문서</title>
     </head>
     <body>
         <h2>간단 문서</h2>
