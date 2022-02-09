@@ -1,6 +1,6 @@
 ---
 layout: single
-title : JavaScript day13
+title : JavaScript day14
 categories : coding
 tag : JavaScript
 toc : false
