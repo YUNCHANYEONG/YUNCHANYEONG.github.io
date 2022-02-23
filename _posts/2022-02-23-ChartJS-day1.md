@@ -20,7 +20,7 @@ https://cdnjs.com/libraries/Chart.js
 
 위 링크를 들어가서 맨 위에있는 코드를 복사해온다. 현재 작성자의 최신 버전은 아래와 같다.
 
-![chartJS1_1](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/shartJS1_1.JPG?raw=true)
+![chartJS1_1](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/chartJS1_1.JPG?raw=true)
 
 ```javascript
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js" integrity="sha512-QSkVNOCYLtj73J4hbmVoOV6KVZuMluZlioC+trLpewV8qMjsWqlIQvkn1KGX2StWvPMdWGBqim1xlC8krl1EKQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -102,7 +102,7 @@ var myChart = new Chart(
   );
 ```
 
-![chartJS1_2](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/shartJS1_2.JPG?raw=true)
+![chartJS1_2](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/chartJS1_2.JPG?raw=true)
 
 이렇게 선형 차트가 만들어졌다.
 
@@ -129,7 +129,7 @@ const data = {
 };
 ```
 
-![chartJS1_3](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/shartJS1_3.JPG?raw=true)
+![chartJS1_3](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/chartJS1_3.JPG?raw=true)
 
 <br>
 
@@ -145,7 +145,7 @@ const config = {
 };
 ```
 
-![chartJS1_4](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/shartJS1_4.JPG?raw=true)
+![chartJS1_4](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/chartJS1_4.JPG?raw=true)
 
 <br>
 
@@ -182,5 +182,5 @@ const data = {
 
 이런식으로 데이터를 연달아서 넣어주면된다.
 
-![chartJS1_5](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/shartJS1_5.JPG?raw=true)
+![chartJS1_5](https://github.com/YUNCHANYEONG/YUNCHANYEONG.github.io/blob/master/assets/images/coding_img/chartJS1_5.JPG?raw=true)
 
