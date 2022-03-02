@@ -1,6 +1,6 @@
 ---
 layout: single
-title : "APPLICATION FAILED TO START"
+title : "Failed to configure a DataSource"
 categories : coding_tip
 tag : Spring Boot
 toc : false
@@ -10,7 +10,7 @@ Failed to configure a DataSource: 'url' attribute is not specified and no embedd
 
 <br>
 
-### APPLICATION FAILED TO START
+### Failed to configure a DataSource
 
 ```
 ***************************
