@@ -2,7 +2,7 @@
 layout: single
 title : "LocalDateTime 타입 변환"
 categories : coding_tip
-tag : "Spring Boot", "JPA", "java"
+tag : java
 toc : false
 ---
 

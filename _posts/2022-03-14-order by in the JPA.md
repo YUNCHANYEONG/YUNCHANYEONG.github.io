@@ -2,7 +2,7 @@
 layout: single
 title : "JPA OrderBy 구문"
 categories : coding_tip
-tag : "Spring Boot", "JPA"
+tag : JPA
 toc : false
 ---
 
