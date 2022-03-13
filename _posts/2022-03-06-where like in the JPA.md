@@ -2,7 +2,7 @@
 layout: single
 title : "JPA로 where %like% 구문"
 categories : coding_tip
-tag : Spring Boot
+tag : Spring Boot, JPA
 toc : false
 ---
 
