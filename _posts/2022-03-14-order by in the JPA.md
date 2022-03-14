@@ -6,13 +6,13 @@ tag : JPA
 toc : false
 ---
 
-JPA OrderBy 구문
+JPA OrderBy 구문 
 
 <br>
 
 ### JPA OrderBy 구문
 
-JPA로 OrderBy 구문 만드는 방법을 알아보자.
+JPA로 OrderBy 구문 만드는 방법을 알아보자. 
 
 **\* desc : 내림차순, asc : 오름차순**
 
